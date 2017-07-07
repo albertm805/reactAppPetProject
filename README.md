@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/albertm805/reactAppPetProject.png?label=ready&title=Ready)](https://waffle.io/albertm805/reactAppPetProject?utm_source=badge)
 # Simple Rebo
 
 ## Simple [**React**](https://facebook.github.io/react/) boilerplate
